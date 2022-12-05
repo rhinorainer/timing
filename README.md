@@ -1,3 +1,4 @@
 # prototpying
 
-Cloud-based plant watering system with soil humidity sensor and pump. Outputs humidity level on cloud dashboard, allows remote setting of target humidity/watering intervals and turns on pump correspondingly.
+Change of plans:
+Weareable wireless heart beat sensor (e.g. Iduino SE050) that streams your current heart beat to the cloud OR connects via bluetooth to a nearby PC for visual output.
