@@ -2,6 +2,8 @@
 
 Weareable wireless heart beat sensor that connects via bluetooth to a nearby PC for visual output.
 
+
+
 Build up on sample code by
 
 Jeremy Ellis 
