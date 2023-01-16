@@ -1,6 +1,7 @@
-# prototpying
+# it's all about timing
 
-Weareable wireless heart beat sensor that connects via bluetooth to a nearby PC for visual output.
+An Arduino inside a siloicon-casted human heart controls a mechanism powered by servos which mimics the movements of the human heart.
+Connected to a heart beat sensor, the installation becomes interactive to users.
 
 
 
