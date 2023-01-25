@@ -1,6 +1,6 @@
 # it's all about timing
 
-An Arduino inside a siloicon-casted human heart controls a mechanism powered by servos which mimics the movements of the human heart.
+An Arduino inside a silicon-casted human heart controls a mechanism powered by servos which mimics the movements of the human heart.
 Connected to a heart beat sensor, the installation becomes interactive to users.
 
 
